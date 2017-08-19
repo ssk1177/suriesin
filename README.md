@@ -1,8 +1,8 @@
-# suriesin
+# TIC TACTICS : PRIVACY
 
-Privacy Policy
+# Privacy Policy
 
-TIC TAC TOE (iOS version)
+# TIC TACTICS (iOS version)
 
 
 1. We do not collect personally identifiable information.
